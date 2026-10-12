@@ -1,0 +1,69 @@
+Agenda:
+1. Recap - Gen AI
+2. Working with Large Language Models (LLM)
+API - Application programming Interface
+Web Services
+3. Interfacing cohere api
+
+Hands-on
+Step1 - open cohere 
+cohere.com
+Step2 - Sign in
+Step3 - Playground
+Step4 - Copy sample program
+Step5 - copy api key
+Step6 - create coheredemo folder
+Step7 - download visual studio code in case it is not available
+
+https://code.visualstudio.com/download
+Step8 - Open coheredemo in visual studio code
+Step9 - Create 1-gettingstarte.py and paste the code
+Step10 - Open terminal ->View->Terminal
+Step11 - dir to check whether file exists
+Step12 - python --version
+Step13 - to create virtual environment
+python -m venv myenv
+creates a folder with the name myenv
+To activate virtual environment
+./myenv/Scripts/activate
+
+Step 14 - in case you get error
+
+https:/go.microsoft.com/fwlink/?LinkID=135170
+
+search for RemoteSigned
+
+
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned
+
+Step15: To install library in python
+pip install cohere
+
+python -m pip install --upgrade pip
+
+download Python 3.12.6 for windows
+
+Windows installer (64-bit)
+
+C:\Users\lenovo\AppData\Local\Programs\Python\Python312
+C:\Users\lenovo\AppData\Local\Programs\Python\Python312\Scripts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

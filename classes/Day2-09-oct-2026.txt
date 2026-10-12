@@ -1,0 +1,109 @@
+Agenda:
+1. Recap
+AI,ML,DL,GenAI
+Regression
+what is price of wipro stock today
+1000,1001,999,1200,899
+Classification
+Yes/No
+Corona test -
+positive, negative
+Deep learning
+
+Python programming
+AI,ML,DataScience
+
+1. How to check the python
+python --version
+2. Find the location of python
+open idle
+file-save as
+copy the folder structure
+C:\Users\lenovo\AppData\Local\Programs\Python\Python314
+lab2secure
+2. Building blocks of python
+
+datatypes
+
+3. Usage of list and dictionary
+4. Class and Objects
+5. Constructor
+__init__
+passing required information at 
+the time of object creation
+6. Running python program with out IDE
+
+7. Generative AI
+LLM - Large Language Model
+prompt - asking any information/question in any of the LLM based
+chatbot
+
+prompt - what is llm
+prompt - how iam getting any response from llm
+
+
+Doctor says eating an apple a day is good for health
+When i opened apple i saw a message from my friend
+Apple is the top most technology company in the world
+
+prompt :What is llm
+tokens : 
+what
+is
+llm
+embedding :
+what - [.567,2.2,8.9,1.5,5]
+is - [.89,1.4,3.67,5.8,7]
+Transformer
+
+Search in google
+transformer architecture explained
+https://poloclub.github.io/transformer-explainer/
+
+list embedding size of top llm
+
+how embedding for any word created. Example 'king'
+
+Use either chatgpt or gemini to find out
+
+1. Which are all the Indian llm
+2. Compare embedding size of various Indian llm
+3. Which application are built on these language models
+4. compare the cost of usage
+
+5.https://www.sarvam.ai/
+Exploring sarvam
+Bharatgen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,44 @@
+Agenda:
+1. Introduction to AI,ML,DL and GenAI
+2. Machine Learning
+Supervised,Un-supervised,Re-inforcement
+3. Deeplearning - simulating functioning
+of a braining using neural network
+ANN - Artificial Neural Network - Genertic
+text or image
+CNN - Convolutional Neural Network-Image
+RNN - Recurrent Neural Network
+Sequential data-time series data
+
+Generative AI (Gen AI)
+Generate - next word,image,audio,video
+
+Python Programming
+Steps :
+1. Create folder with your name
+2. create programs folder inside your name
+3. create pyprograms folder inside programs
+folder
+4. Download and install python in case same is not
+installed
+https://www.python.org/downloads/
+5. To check the location of python
+type idle in your windows search
+6. Python building blocks
+Data types - int,float,str,bool
+
+ismember=True
+print("data type of ismember ",type(ismember))
+Advanced datatypes - list,tuple,dictionary,set
+6. Operators
+
+
+
+
+
+
+
+
+
+
+
