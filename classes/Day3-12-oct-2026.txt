@@ -48,6 +48,38 @@ Windows installer (64-bit)
 C:\Users\lenovo\AppData\Local\Programs\Python\Python312
 C:\Users\lenovo\AppData\Local\Programs\Python\Python312\Scripts
 
+www.kaushalya.tech
+git
+repositories
+genaioct2026
+
+Hands-on
+Steps
+1. Create llms folder
+2. open llms in command prompt
+3. code .
+4. Open terminal in visual studio code
+View ->Terminal
+5. Create and activate virtual environment
+check python version
+python --version
+python -m venv myenv
+.\myenv\Scrips\activate
+6. Download first program from git under llms folder
+1-coheregettingstarted.py
+7. pip install cohere
+8. python 1-coheregettingstarted.py 
+
+
+
+
+
+
+
+
+
+
+
 
 
 
