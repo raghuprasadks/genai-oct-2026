@@ -1,0 +1,54 @@
+Agenda:
+1. Recap
+Commands:
+a. python version
+python --version
+3.12.6
+b. virtual environment
+python -m venv myenv
+c. activate virtual environment
+.\myenv\Scripts\activate
+d. pip install cohere
+e. python <programname.py>
+
+2. LLM programs
+Embedding
+
+https://poloclub.github.io/transformer-explainer/
+prompt
+1.What is llm
+2. Break sentence into tokens
+what - 1
+is - 100
+llm - 150
+3. token id is assigned to each token
+4. Convert each token into numerical representation
+called embedding
+what - [2.1,4.5,6] - embedding size 3
+is - [3.5,5,4.6]
+llm - [4.6,7.8,9]
+
+Mysuru king celebrates personal dasara
+King - man,strong,compasion,friend
+5. positional embedding
+
+Doctor told me to eat an apple every day.
+I bought an apple iPhone.
+Apple market share has raised since the
+release of latest iPhone
+
+
+
+
+
+
+
+
+
+
+
+
+Visualization of embedding
+Sentimental analysis
+text summarization
+

@@ -82,7 +82,7 @@ Create an infographics on llms. This should explain llms in simple terms so that
 
 
 
-I want build a large language model to teach science to highschools students in india.Students are from rural background. They have ncert text books. I want to build the model which help them in understanding concepts in a simple way. How to proceed
+I want build a small language model to teach science to highschool students in india.Students are from rural background. They have ncert text books. I want to build the model which help them in understanding concepts in a simple way. How to proceed
 
 
 
