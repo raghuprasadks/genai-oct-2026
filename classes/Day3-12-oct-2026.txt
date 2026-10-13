@@ -70,6 +70,30 @@ python -m venv myenv
 7. pip install cohere
 8. python 1-coheregettingstarted.py 
 
+Prompt Engineering
+Zero prompt - direct question
+what is llm
+what is genai
+
+Role play
+I am a student of Bachelor of Computer  Application. Explain LLM in simple terms.Add appropriate examples
+
+Create an infographics on llms. This should explain llms in simple terms so that even a 10 year kid should be able to understand
+
+
+
+I want build a large language model to teach science to highschools students in india.Students are from rural background. They have ncert text books. I want to build the model which help them in understanding concepts in a simple way. How to proceed
+
+
+
+
+
+
+
+
+
+
+
 
 
 
