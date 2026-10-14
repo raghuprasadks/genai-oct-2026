@@ -1,0 +1,15 @@
+#pip install pandas openpyxl
+import pandas as pd
+df = pd.read_excel("top_10_world_economies_2026-data.xlsx")
+print("DataFrame:top 10 economies in the world in 2026")
+print(df)
+print("Data size ",df.shape)
+print("Data types ",df.dtypes)
+print("DataFrame info")
+print(df.info())
+print("DataFrame describe")
+print(df.describe())
+print("DataFrame head")
+print(df.head())
+print("DataFrame tail")
+print(df.tail())
