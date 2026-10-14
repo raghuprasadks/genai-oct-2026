@@ -1,0 +1,83 @@
+Agenda:
+1. Recap
+2. Huggingface
+https://huggingface.co/
+3. Models,data,spaces,libraries,api
+4. Building UI based chatbot
+5. Programs using transformer library
+
+
+Hands-on exploring huggingface
+Step1 - https://huggingface.co/
+Step2 - Sign Up
+Step3 - Models
+Step4 - Tasks
+Step5 - Spacers
+
+Hands-on
+1. create llmdemo folder
+2. open this folder in visual studio code
+3. create a virtual environment
+4. activate virtual environment
+5. Copy 3-cohere-memory.py which is in git
+programs->llm
+6. Check which libraries to install
+7. Run the program
+
+Steamlit program
+copy 4-cohere-streamlitui.py
+
+pip install streamlit
+streamlit run 4-cohere-streamlitui.py
+
+copy 5-cohere-voice.py
+pip install SpeechRecognition PyAudio pyttsx3 cohere
+python 5-cohere-voice.py
+
+Copy program 6 and run .. Audio to image
+
+in copilot in VS code type following prompt
+
+Assignment 1
+
+create streamlit based language translator.
+I should be able to select source language and destination language. Use command-a-plus-05-2026 cohere model. 
+Keep program name as 7-translator.py
+I want to keep COHERE_API_KEY inside the program
+
+Assignment 2
+Create a streamlit based application to summarize text.
+I should be able to upload a text file containing some information
+I should get a summary
+
+Assignment 3
+I have been assigned to analyze sentiment of my product sold 
+in amazon. I want to build a stream based application which should allow me to upload the review comments of my customers.
+I should be able to get the sentiment of the each comment.
+I should be able to download excel file with comments and sentiment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

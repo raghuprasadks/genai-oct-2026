@@ -37,6 +37,95 @@ I bought an apple iPhone.
 Apple market share has raised since the
 release of latest iPhone
 
+6.Hands-on embedding 
+step 1- create embeddingdemo folder
+step 2- open embeddingdemo folder inside visual studio code
+step 3 - open terminal and create virtual environment
+step 4 - activate virtual environment
+step 5 - check the python version
+ensure you are using version 3.12.6
+step 6 - copy 1st program from embedding folder 
+under the programs folder from the git
+
+www.kaushalya.tech
+git
+repositories
+genai-oct-2026
+
+https://github.com/raghuprasadks/genai-oct-2026
+
+
+Assignment:
+1.Write a program to convert following sentence into
+word2vec
+
+A large language model (LLM) is a type of artificial intelligence. It is built on a deep learning neural network architecture. Most commonly, it uses the Transformer architecture developed by Google.
+
+https://poloclub.github.io/transformer-explainer/
+
+2. Find the word2vec value for following words
+artificial
+architecture
+Transformer
+3. Add vector of 
+artificial and architecture
+4. Find word similar to architecture
+
+Program 2 - 2_gen_ai_lab_embedding.py
+
+Down above program
+copy to embeddingdemo folder
+
+pip install gensim matplotlib scikit-learn pandas
+python 2_gen_ai_lab_embedding.py
+
+Data Analytics/Data Science
+
+pandas  - reading data,manipulating data,transforming data
+matplotlib - plot the graph
+
+https://www.w3schools.com/python/matplotlib_intro.asp
+
+scikit-learn
+
+Assignment
+
+1. using chatgpt create a excel file containing
+following information of top 10 economies in the world
+country,gdp,percapitaincome,ppp
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
