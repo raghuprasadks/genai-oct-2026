@@ -50,6 +50,49 @@ Index
 
 Type any question
 
+Program 4 - copy 4-rag-streamlit-multiple.py into ragchatbot 
+install required libraries
+streamlit run 4-rag-streamlit-multiple.py
+
+Upload the file
+
+Index
+
+Mini project - rag based chatbot
+1. Develop a chatbot called Raitamitra.
+This chat bot should provide information about crops that can be grown
+based on the location.Also information about how to grow.
+Farmers should be able to ask question in their local language
+
+2.Develop a chatbot called TataEVConnect.
+This chatbot should provide information about various Electrical vechicles
+sold by tata. Information may include model,make,price,electricity charges etc.
+
+3.Develop a chatbot called MakeInIndiabot.
+This chatbot should provide information about various make in india schemes.
+Participants should be able to ask question in their local language
+
+4.Develop a chatbot called NHCMBot.
+This chatbot should provide various information about New Horizon College Maratha halli
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Type any question
+
+
 
 
 
