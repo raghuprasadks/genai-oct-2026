@@ -1,0 +1,71 @@
+git and GitHub
+
+Version control
+
+1. open GitHub.com
+2. Sign Up to GitHub using gmail
+3. Create Repository
+4. Give name for repository
+5. Few git commands will be displayed
+6. We have execute these commands in
+our local system using git
+7. To initialize git repository
+git init
+8. To add any file to the repository 
+git add <file name>
+9. To add all the files to git repository
+git add .
+10 To commit the file
+git commit -m "message"
+11. to push to GitHub
+git push
+
+Download git for windows
+https://git-scm.com/install/windows
+open command prompt
+git --version
+
+Create a new respository using GitHub.com
+Give the name demoproj
+
+
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/raghuprasadks/demoproj.git
+git push -u origin main
+
+Create raitamitra folder
+open this folder in command prompt
+git init
+
+create simplecalculator.py inside raitamitra
+add any python code
+
+git add SimpleCalculator.py
+git add .
+git commit -m "first commit"
+git remote add origin https://github.com/raghuprasadks/demoproj.git
+git push -u origin main
+
+https://www.w3schools.com/git/
+
+git clone <repository>
+
+git clone https://github.com/raghuprasadks/genai-oct-2026.git
+git pull
+
+
+
+
+
+
+
+
+
+
+
+
+
+
