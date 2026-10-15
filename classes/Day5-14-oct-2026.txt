@@ -55,12 +55,15 @@ I want to keep COHERE_API_KEY inside the program
 
 Assignment 3
 I have been assigned to analyze sentiment of my product sold 
-in amazon. I want to build a stream based application which should allow me to upload the review comments of my customers.
+in amazon. I want to build a stream based application which 
+should allow me to upload the review comments of my customers.
 I should be able to get the sentiment of the each comment.
 I should be able to download excel file with comments and sentiment
 Use command-a-plus-05-2026 cohere model.
 I want to keep COHERE_API_KEY inside the program
 Keep the program name as sentimentanalysis.py
+
+Solution - >git->programs->Chatbot->sentimentanalysis.py
 
 
 

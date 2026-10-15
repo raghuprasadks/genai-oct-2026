@@ -1,0 +1,60 @@
+Agenda:
+1. Recap
+Assignment -
+Building a sentimental analysis
+chatbot for analyzing review of any
+product of ecommerce portal such as
+Amazon,Flipkart 
+2. Retrieval Augmented Generation (RAG)
+
+3. Vector Databases
+ChromaDB
+4. Building Custom Chatbots using RAG
+Hands-on
+Step 1 - create ragchatbot folder
+Step 2 - Open this folder in visual studio code
+Step 3 - Create and activate virtual environment
+Step 4 - Download 1-rag-embedding.py from programs->ragdemo
+Step 5 - Install the required libraries using pip command
+Step 6 - https://newhorizoncollege.co.in/about/
+copy first paragraph and create aboutnhcm.txt file
+convert this into pdf
+
+python .\1-rag-embedding.py --pdf .\aboutnhcm.pdf
+
+it creates rag folder where chromadb is installed
+and data from pdf is stored as an embedding
+
+Program 2 - copy 2-rag-chat.py into ragchatbot create
+create .env file inside
+ragchatbot folder
+add following content and save
+
+COHERE_API_KEY=<your api key>
+
+to run the program
+
+install the required libraries
+
+pip install cohere chromadb python-dotenv
+
+python 2-rag-chat.py
+
+Program 3 - copy 3-rag-streamlit.py into ragchatbot 
+install required libraries
+streamlit run 3-rag-streamlit.py
+
+Upload the file
+
+Index
+
+Type any question
+
+
+
+
+
+
+
+
+
